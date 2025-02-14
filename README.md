@@ -1,6 +1,8 @@
-### Olá! Eu sou o Davi Vieira 👋  
+### Olá, visitante 🤟🏻
+<h2>Prazer, me chamo Davi!</h2>
+
 <div style="display: inline_block"><br>
-🖥️ Análise e Desenvolvimento de Sistemas
+🖥️ Estudante de Análise e Desenvolvimento de Sistemas
 <div>
 <div style="display: inline_block"><br>
 
